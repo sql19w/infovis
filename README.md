@@ -8,9 +8,6 @@
 
 <a href="https://sql19w.github.io/infovis/week35.html">week 35</a>
 
-## random:
-
-
-<a href="https://sql19w.github.io/infovis/random1.html">random 1</a>
+## matplotlib
 
 
