@@ -11,4 +11,4 @@
 
 ## matplotlib
 
-<a href="https://sql19w.github.io/infovis/dvs.html">devs</a>
+<a href="https://sql19w.github.io/infovis/LATAM_devs_salary.html">LATAM devs median salary</a>
